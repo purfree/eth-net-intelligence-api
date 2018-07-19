@@ -18,7 +18,8 @@
       "CONTACT_DETAILS" : "",
       "WS_SERVER"       : "wss://rpc.ethstats.net",
       "WS_SECRET"       : "see http://forum.ethereum.org/discussion/2112/how-to-add-yourself-to-the-stats-dashboard-its-not-automatic",
-      "VERBOSITY"       : 2
+      "VERBOSITY"       : 2,
+      "PUBLIC_IP"       : "当RPC_HOST是内网ip，这里可以填写公网，ip的作用主要是用来显示服务器坐标"
     }
   }
 ]
